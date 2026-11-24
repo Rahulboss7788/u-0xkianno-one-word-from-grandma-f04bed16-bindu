@@ -1,0 +1,1 @@
+{"description":"One Word From Grandma — a one-word entry for make.fun: the single word a grandma would text about AI.","engines":{"node":">=22"},"license":"MIT","main":"main.ts","name":"u-0xkianno-one-word-from-grandma-f04bed16-bindu","scripts":{"start":"node main.ts"},"type":"module","version":"1.0.0"}
